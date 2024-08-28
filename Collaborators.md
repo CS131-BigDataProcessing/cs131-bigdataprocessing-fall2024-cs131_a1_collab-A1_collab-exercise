@@ -2,5 +2,6 @@
 Below add your name and your favorite restaurant
 <br>
 Name(include last)      Favorite restaurant <br>
-~                                                       
+
 Michael Huh             Krung Thai
+Singaram Subramanyan    Blue Mango Thai
