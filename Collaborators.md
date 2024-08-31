@@ -2,6 +2,6 @@
 Below add your name and your favorite restaurant
 <br>
 Name(include last)      Favorite restaurant <br>
-~
-Michael Huh             Krung Thai                                                       
-Ryan Yee                Tofu Plus Korean BBQ
+~                                                 
+Michael Huh             Krung Thai <br>
+Ryan Yee                Tofu Plus Korean BBQ <br>
