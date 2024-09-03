@@ -5,7 +5,7 @@ Name(include last)      Favorite restaurant <br>
 ~                                                       
 Michael Huh             Krung Thai. <br>
 Daniel Chang            Home Eats<br>
-
+Henry Chau              Fishhoppers  <br>
 
 Averi Tanlimco          Eastlake<br>
 Bowen Ni                Xiaoxiangge
