@@ -6,3 +6,5 @@ Name(include last)      Favorite restaurant <br>
 Michael Huh             Krung Thai
 
 Averi Tanlimco          Eastlake
+
+Bowen Ni                Xiaoxiangge
