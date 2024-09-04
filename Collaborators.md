@@ -3,6 +3,7 @@ Below add your name and your favorite restaurant
 <br>
 Name(include last)      Favorite restaurant <br>
 ~                                                       
+Lila Nguyen             Highland Noodles
 Michael Huh             Krung Thai<br>
 Adarsh Mallya           Taco Bell<br>
 Emily Lu		            Pho Kim Long <br>
