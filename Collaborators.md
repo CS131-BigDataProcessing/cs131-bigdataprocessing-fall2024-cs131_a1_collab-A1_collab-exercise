@@ -4,7 +4,8 @@ Below add your name and your favorite restaurant
 <br>
 
 Name(include last)      Favorite restaurant <br>
-~~
+~                                                       
+Jyothi Shankar          Amarin Thai <br>
 Michael Huh             Krung Thai<br>
 Singaram Subramanyan    Blue Mango Thai <br>
 Hung Pham               I dont have one hehe <br>
